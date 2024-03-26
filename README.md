@@ -13,7 +13,7 @@ PyDICOM Storage Server is a Python-based application for receiving and storing D
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pydicom-storage-server.git
+git clone https://github.com/jx0c/pydicom-storage-server.git
 ```
 2. Install the required dependencies:
 
