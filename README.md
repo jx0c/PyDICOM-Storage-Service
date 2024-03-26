@@ -21,14 +21,14 @@ git clone https://github.com/yourusername/pydicom-storage-server.git
 pip install pydicom pynetdicom
 ```
    
-3.  Configure your DICOM devices to send files to the server's IP address and port (default: 127.0.0.1:11112).
+3.  Configure your DICOM devices to send files to the server's IP address and port <em>(default: 127.0.0.1:11112).</em>
 
 
 4. Run the server:
 
-     ```bash
-     python server.py
-     ```
+  ```bash
+   python server.py
+   ```
 
 ## License
 
