@@ -14,8 +14,25 @@ PyDICOM Storage Server is a Python-based application for receiving and storing D
 
 ```bash
 git clone https://github.com/yourusername/pydicom-storage-server.git
+```
+2. Install the required dependencies:
+
+```bash
+pip install pydicom pynetdicom
+```
+   
+3.  Configure your DICOM devices to send files to the server's IP address and port (default: 127.0.0.1:11112).
+
+
+4. Run the server:
+
+     ```bash
+     python server.py
+     ```
 
 ## License
 
 This project is licensed under the GNU General Public License version 2.0 (GPL-2.0). See the LICENSE file for details.
+
+
 
